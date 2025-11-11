@@ -1157,5 +1157,7 @@ a{
 .plans-page .plan a{
     margin-top: 15px;
     margin-bottom: 15px;
+    width: 100%;
 }
+
 /* End plans page */
